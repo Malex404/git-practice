@@ -1,2 +1,1 @@
-# git-practiceПрактикуюсь с GitHub!
-Практикуюсь с GitHub!
+Практикуюсь с GitHub new!
